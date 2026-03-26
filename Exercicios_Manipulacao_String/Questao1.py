@@ -1,3 +1,4 @@
+arquivo_entrada = "dna.txt"
 with open("dna.txt", "r") as f:
     cadeia = f.read().strip()
 
