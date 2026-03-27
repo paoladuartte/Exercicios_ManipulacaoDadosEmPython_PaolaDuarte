@@ -1,4 +1,4 @@
-# Exercicios_ManipulacaoDadosEmPython_PaolaDuarte
+# Exercicios_ManipulacaoDadosEmPython
 Grupo: 
 Estevão Ferreira de Vasconcelos Matrícula: 202502918003
 Ellen Vitória Silva Ribeiro Matrícula: 202404220859
