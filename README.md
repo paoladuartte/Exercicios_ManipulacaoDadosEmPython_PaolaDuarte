@@ -1,7 +1,8 @@
 # Exercicios_ManipulacaoDadosEmPython_PaolaDuarte
-
-Aluna: Paola Duarte de Matos Peres
-Matrícula: 202503566119
+Grupo: 
+Estevão Ferreira de Vasconcelos Matrícula: 202502918003
+Ellen Vitória Silva Ribeiro Matrícula: 202404220859
+Paola Duarte de Matos Peres Matrícula: 202503566119
 
 Enunciado das Questões 
 
